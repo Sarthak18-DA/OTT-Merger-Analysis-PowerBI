@@ -84,7 +84,9 @@ I hold a **Bachelor’s and Master’s degree in Computer Science** and an **MBA
 
 📫 **Contact**  
 - Email: [sarthakmore1801@gmail.com]  
-- LinkedIn: [[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sarthak-more-8812b6213/))
+- LinkedIn:(- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+)
+
 
 
 **Thank you for taking the time to review this project.**
