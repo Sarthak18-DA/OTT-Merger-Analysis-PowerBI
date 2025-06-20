@@ -43,7 +43,8 @@ Key strategic outcomes include:
    - Despite a larger user base, **LioCinema’s revenue per user** is lower due to a higher percentage of **Free and Basic-tier users**.
 
 See sample report file Here:-
-Dashboard Overview 
+📄 [View Detailed Analysis (PDF)](https://github.com/Sarthak18-DA/OTT_Intel/blob/main/LioJotStar_merger_Analysis.pdf)
+
 
 # 📌 Recommendations
 
