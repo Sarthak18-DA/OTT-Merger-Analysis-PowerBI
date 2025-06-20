@@ -42,6 +42,9 @@ Key strategic outcomes include:
    - **Jotstar** generates **higher total revenue** due to its larger share of **Premium and VIP subscribers**.
    - Despite a larger user base, **LioCinema’s revenue per user** is lower due to a higher percentage of **Free and Basic-tier users**.
 
+See sample report file Here:-
+Dashboard Overview 
+
 # 📌 Recommendations
 
 **🎬 Content Strategy**  
