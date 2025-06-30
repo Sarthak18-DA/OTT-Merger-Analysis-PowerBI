@@ -80,11 +80,11 @@ Access the full interactive report here:
 🔗 ### 📊 Business Intelligence Report
 
 Access the full report here:  
-[Visit the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzcyYmI5YWQtN2UwNC00MmRiLTlmODktZjdhYTA2NWUwOGNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7fbb5c63bfb6a096e31d)
+[Visit the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTdkODZhMTgtMmYwOC00NmE2LWIyZTgtNmI2OTY3ZWRhMGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7fbb5c63bfb6a096e31d)
 
 ### 👤 About the Analyst
 
-I’m **Sarthak More**, a data analyst with a background in business analysis and data-driven decision making.  
+I’m **Sarthak More**, a data analyst with a background in **Business analysis** and data-driven decision making.  
 I hold a **Bachelor’s and Master’s degree in Computer Science** and an **MBA in Business Analytics**, and apply tools such as **SQL**, **Power BI**, **Excel**, **Python**, and applied **statistics** to generate actionable business insights.
 
 📫 **Contact**  
