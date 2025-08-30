@@ -1,23 +1,19 @@
 # 🎬Strategic Insights for the LioCinema & JotStar OTT Merger🎬
 A pre-merger analysis of LioCinema and Jotstar focusing on content performance, subscriber trends, user behavior, and engagement patterns to support strategic decision-making for their upcoming OTT merger.
 
-# 🎯 Strategic Purpose
+## 🎯 Strategic Purpose
 
 This analysis aims to support the planned merger between LioCinema and Jotstar by uncovering key insights into user behavior, subscription patterns, and content consumption. The goal is to help the management team make informed, data-driven decisions that will guide post-merger strategies and position the combined platform as a leader in the Indian OTT space.
 
 Key strategic outcomes include:
 
-✅ Aligning subscription plans and pricing models
+* Aligning subscription plans and pricing models
+* Optimizing content offerings based on viewer preferences
+* Identifying churn risks and improving user retention
+* Enhancing engagement across different user segments
+* Supporting long-term growth and market positioning
 
-✅ Optimizing content offerings based on viewer preferences
-
-✅ Identifying churn risks and improving user retention
-
-✅ Enhancing engagement across different user segments
-
-✅ Supporting long-term growth and market positioning
-
-# 🧠 Key Insights
+## 🧠 Key Insights
 1. **Subscriber Demographics:**
    - **LioCinema** has higher engagement from **Tier-2 and Tier-3 cities**, while **Jotstar** is more popular in **Tier-1 metros**.
    - The most active users across both platforms are in the **18–24 age group**.
@@ -46,7 +42,7 @@ See sample report file Here:-
 📄 [View Detailed Analysis (PDF)](https://github.com/Sarthak18-DA/OTT_Intel/blob/main/LioJotStar_merger_Analysis.pdf)
 
 
-# 📌 Recommendations
+## 📌 Recommendations
 
 **🎬 Content Strategy**  
 • Expand regional content offerings on Jotstar to attract Tier-2 and Tier-3 city audiences.  
@@ -69,10 +65,10 @@ See sample report file Here:-
 • Maintain brand identity while offering cross-platform login and billing integration.
 
 
-# 📍Conclusion
-This analysis provides a strategic foundation for LioCinema and Jotstar as they prepare for a potential merger. By identifying complementary strengths—such as Jotstar’s diverse content library and LioCinema’s strong regional presence—we highlight clear opportunities to create a unified, market-leading OTT platform.
-The insights on subscriber behavior, content performance, and upgrade patterns enable data-backed decisions around pricing, user engagement, and content strategy. If acted upon, these findings can significantly reduce churn, enhance user satisfaction, and position the combined entity as a dominant player in India’s digital streaming space.
-The road to integration is complex, but with timely execution of the outlined recommendations, the merger has the potential to deliver long-term growth and competitive advantage.
+## 📍Conclusion
+* This analysis provides a strategic foundation for LioCinema and Jotstar as they prepare for a potential merger. By identifying complementary strengths—such as Jotstar’s diverse content library and LioCinema’s strong regional presence we highlight clear opportunities to create a unified, market-leading OTT platform.
+* The insights on subscriber behavior, content performance, and upgrade patterns enable data-backed decisions around pricing, user engagement, and content strategy. If acted upon, these findings can significantly reduce churn, enhance user satisfaction, and position the combined entity as a dominant player in India’s digital streaming space.
+* The road to integration is complex, but with timely execution of the outlined recommendations, the merger has the potential to deliver long-term growth and competitive advantage.
 
 ### 📊 Business Intelligence Report
 
@@ -85,7 +81,8 @@ Access the full report here:
 ### 👤 About the Analyst
 
 I’m **Sarthak More**, a data analyst with a background in **Business analysis** and data-driven decision making.  
-I hold a **Bachelor’s and Master’s degree in Computer Science** and an **MBA in Business Analytics**, and apply tools such as **SQL**, **Power BI**, **Excel**, **Python**, and applied **statistics** to generate actionable business insights.
+
+I hold a **Bachelor’s in Computer Science** and an **MBA in Business Analytics**, and apply tools such as **SQL**, **Power BI**, **Excel**, **Python**, and applied **statistics** to generate actionable business insights.
 
 📫 **Contact**  
 - Email: [sarthakmore1801@gmail.com]  
