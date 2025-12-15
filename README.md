@@ -83,7 +83,6 @@ Access the full report here:
 I’m **Sarthak More**, a data analyst with a background in **Business analysis** and data-driven decision making.  
 
 I hold a **Bachelor’s in Computer Science** and an **MBA in Business Analytics**, and apply tools such as **SQL**, **Power BI**, **Excel**, **Python**, and applied **statistics** to generate actionable business insights.
-
 📫 **Contact**  
 - Email: [sarthakmore1801@gmail.com]  
 - LinkedIn: [Sarthak More](https://www.linkedin.com/in/sarthak-more-8812b6213/)
